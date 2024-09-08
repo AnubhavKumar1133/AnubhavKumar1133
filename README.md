@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anubhav Kumar</h1>
 <h3 align="center">A passionate full-stack Java developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://thumb.ac-illust.com/d8/d8f7f1e2ad8d51a06f87da8d1c6820bc_w.jpeg"
-- 🌱 I’m currently learning **ML with Python, TensorFlow, PyTorch and scikit-lae**
+ 🌱 I’m currently learning **ML with Python, TensorFlow, PyTorch and scikit-lae**
 
-- 💬 Ask me about **Spring Boot, Java, React, Spring Security and Javascript**
+ 💬 Ask me about **Spring Boot, Java, React, Spring Security and Javascript**
 
-- 📫 How to reach me **anubhavkumar1133@gmail.com**
+ 📫 How to reach me **anubhavkumar1133@gmail.com**
 
-- ⚡ Fun fact **I am a fast learner.**
+ ⚡ Fun fact **I am a fast learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
