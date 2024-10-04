@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://cdn.dribbble.com/users/583275/screenshots/16526735/media/bde4500db45541b73cfbdab9d2a2d6b9.gif" align="center" style="width: 100%","height: 20%"/>
+</div>
 <h1 align="center">Hi 👋, I'm Anubhav Kumar</h1>
 <h3 align="center">A passionate full-stack Java developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://thumb.ac-illust.com/d8/d8f7f1e2ad8d51a06f87da8d1c6820bc_w.jpeg"
