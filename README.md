@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anubhav Kumar</h1>
 <h3 align="center">Final year CSE undergrad.</h3>
 <h4 align="center">Full Stack Developer <a href="https://b2brocket.ai" target="_blank">@B2BRocket</a></h4>
-<img align="right" alt="Coding" width="400" src="[https://thumb.ac-illust.com/d8/d8f7f1e2ad8d51a06f87da8d1c6820bc_w.jpeg](https://cdn.esquireindia.co.in/article/2025-08-11T14%3A35%3A30.664Z-batman2LEAD%20%281%29.jpg)"
+<img align="right" alt="Coding" width="400" src="https://thumb.ac-illust.com/d8/d8f7f1e2ad8d51a06f87da8d1c6820bc_w.jpeg](https://cdn.esquireindia.co.in/article/2025-08-11T14%3A35%3A30.664Z-batman2LEAD%20%281%29.jpg"
  🌱 I’m currently learning **ML with Python, TensorFlow, PyTorch and scikit-lae**
 
  💬 Ask me about **Node.js, Express, MongoDB, Firebase, Spring Boot, Java, React JS, Next JS, JWT Authentication, Spring Security, Javascript, HTML, CSS, Kubernetes, and DSA**
