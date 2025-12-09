@@ -1,24 +1,58 @@
-
 <h1 align="center">Hi 👋, I'm Anubhav Kumar</h1>
-<h3 align="center">Final year CSE undergrad.</h3>
-<h4 align="center">Full Stack Developer <a href="https://b2brocket.ai" target="_blank">@B2BRocket</a></h4>
-<img align="right" alt="Coding" width="400" src="https://cdn.esquireindia.co.in/article/2025-08-11T14%3A35%3A30.664Z-batman2LEAD%20%281%29.jpg"
- 🌱 I’m currently learning **ML with Python, TensorFlow, PyTorch and scikit-lae**
+<h3 align="center">Final Year CSE Undergrad | Full Stack Developer @ B2BRocket</h3>
 
- 💬 Ask me about **Node.js, Express, MongoDB, Firebase, Spring Boot, Java, React JS, Next JS, JWT Authentication, Spring Security, Javascript, HTML, CSS, Kubernetes, and DSA**
-
- 📫 How to reach me **anubhavkumar1133@gmail.com**
-
- ⚡ Fun fact **I am a history geek.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anubhav-kumar-b8129124b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav-kumar-b8129124b" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anubhavkumar11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anubhavkumar11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anubhav_kumar1133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anubhav_kumar1133" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anubhavkut0bn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anubhavkut0bn" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnubhavKumar1133/AnubhavKumar1133/main/Your%20paragraph%20text.png" width="700" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me  
+- 🎓 Final-year Computer Science undergraduate  
+- 💼 Full Stack Developer at **B2BRocket**  
+- ☁️ Currently learning **Azure & Cloud Computing Fundamentals**  
+- 💡 Passionate about **backend systems, scalable architecture & automation**  
+- 🔥 Solved **400+ DSA problems** across LeetCode, CodeChef & GFG  
+- 🧠 Always exploring new tech and building real-world projects  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,nextjs,js,html,css,mongodb,mysql,postgres,git,github,docker,kubernetes,azure,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhavKumar1133&theme=react-dark" />
+</p>
+
+---
+
+## 🔭 Current Focus
+- Building production-grade full stack systems  
+- Improving cloud skills with **Azure**  
+- Studying system design fundamentals  
+- Enhancing problem-solving through DSA  
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/anubhav-kumar-b8129124b"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:anubhavkumar1133@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://leetcode.com/anubhav_kumar1133"><img src="https://miro.medium.com/v2/0*xJCLQQRZv3XFMUd1" height="40"/></a>
+  
+</p>
+
+---
+
+## ⚡ Fun Fact  
+I am a **history geek** — I love exploring ancient civilizations and historical events!
 
