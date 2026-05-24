@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhav Kumar</h1>
-<h3 align="center">Final Year CSE Undergrad | Full Stack Developer @ B2BRocket</h3>
+<h3 align="center">CSE Undergrad | Full Stack Developer @ B2BRocket</h3>
 
 <!-- Banner -->
 <p align="center">
