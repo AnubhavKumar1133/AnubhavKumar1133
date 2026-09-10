@@ -9,8 +9,8 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Final-year Computer Science undergraduate  
-- 💼 Full Stack Developer at **B2BRocket**  
+- 🎓 Computer Science undergraduate 2026
+- 💼 Ex - Full Stack Developer @**B2BRocket**  
 - ☁️ Currently learning **Azure & Cloud Computing Fundamentals**  
 - 💡 Passionate about **backend systems, scalable architecture & automation**  
 - 🔥 Solved **400+ DSA problems** across LeetCode, CodeChef & GFG  
